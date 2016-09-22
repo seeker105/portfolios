@@ -6,11 +6,11 @@ This module I want to develop effective JavaScript skills. I want to practice in
 
 ## Rubric Scores
 
-* **A: End-of-Module Assessment**: 4
-* **B: Individual Work & Projects**: 4
-* **C: Group Work & Projects**: 3
-* **D: Professional Skills**: 3
-* **E: Feedback & Community Participation**: 3
+* **A: End-of-Module Assessment**: X
+* **B: Individual Work & Projects**: X
+* **C: Group Work & Projects**: X
+* **D: Professional Skills**: X
+* **E: Feedback & Community Participation**: X
 
 -----------------------
 
@@ -224,10 +224,6 @@ Before this program I had worked with C++ and Java, but Turing uses Ruby on Rail
 ### Resume Summary
 
 Problem solver with a background in electronics and software. Electronics was my first pursuit, but I realized Software was my real passion. I love using technology to solve real problems and seeing ideas become reality.
-
-### Turing.io Profile
-
-The turing.io website is experiencing technical difficulties. Profiles cannot be created. I discussed this with Instructors Romeeka Gayhart and Nate Allen.
 
 ### Gear Up
 #### There is an "I" in "Team"
